@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "Cracke [Я]",
+  "base_artist": "△○□×",
+  "createdAt": "2026-03-06T02:31:36.497523Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Cracke [Я] [feat. 鏡音リン & 鏡音レン]",
+      "artist": "△○□×",
+      "has_synced": false,
+      "path": "select/pl_01_Cracke_[Я]_[feat._鏡音リン_&_鏡音レン]_△○□×.txt"
+    }
+  ]
+}
